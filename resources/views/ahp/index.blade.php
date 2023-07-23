@@ -211,6 +211,7 @@
                     }
                 })
                 $('#hitungAhpModal').modal('hide');
+                
             } 
         });
     });
